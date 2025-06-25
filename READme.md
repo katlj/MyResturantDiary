@@ -1,6 +1,6 @@
-My Resturant Diary!
+# My Resturant Diary!
 
-# Why am I building this app? What is the problem I am solving for?
+## Why am I building this app? What is the problem I am solving for?
 My  Resturant Diary is THEE platform for building your traveling itineraries, date nights, exploring fine cuisine and making new memories. A bit about me, I am a **HUGE FOODIE**. I love exploring new foods and I like to think of myself as a reformed picky eater.
 I used to be afraid of trying new foods in fear that I would dislike them, but I had an epiphany-- the more foods I try, the more I can discover things that I actually do like! A couple of months ago I went to France with my familyl and my goodness, it was so hard to find somewhere to eat! Of course you have Google
 Maps where you can explore different ressturants but with that kind of search, you deal with the paradox of choice. Not to mention, reviews can be misleading as everyone has different opinions and what may be good priced to one person, may be more expensive for another.
